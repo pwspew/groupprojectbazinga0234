@@ -3,4 +3,4 @@
 
 
 ## UML Diagram
-![https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/grannyCopy.jpg]
+![snast](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/grannyCopy.jpg)
