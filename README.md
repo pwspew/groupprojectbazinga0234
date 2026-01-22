@@ -6,8 +6,12 @@
 ![snast](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/grannyCopy.jpg)
 
 
+## Inspos for the main house
+![granny](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/granhouse.webp)
+
 ## Contributions
 * Oliver (main coder/logic maker and mafia boss)
 * Henry (emotional support and blender model creator)
 * Oskar (Github manager and coder)
 * Jonas (game design and instance manager)
+
