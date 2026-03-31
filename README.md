@@ -7,7 +7,7 @@
 
 
 ## Inspos for the main house
-![granny](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/granhouse.webp)
+![granny](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/granny1.png)
 
 ![Resent](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/resident.webp)
 
