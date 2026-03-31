@@ -14,7 +14,7 @@
 
 ## Contributions
 * Oliver (main coder/logic maker and mafia boss)
-* henry
-* Oskar (over all saport fills in when needed)
+* Henry (secondary coder/funder)
+* Oskar (over all support fills in when needed)
 
 
