@@ -14,7 +14,7 @@
 
 ## Contributions
 * Oliver (main coder/logic maker and mafia boss)
-* Henry (Big Cheese and blender model creator and coder)
-* Oskar (friend and happysoul just happy to be here)
+* henry
+* Oskar (over all saport fills in when needed)
 
 
