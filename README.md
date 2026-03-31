@@ -11,6 +11,9 @@
 
 ![Resent](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/resident.webp)
 
+<details>
+  <summary>meet the gang</summary>
+
 ## Contributions
 * Oliver (main coder/logic maker and mafia boss)
 * Henry (secondary coder/funder)
