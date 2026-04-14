@@ -1,5 +1,5 @@
 # Super Evil Engineering teacher
-<img width="200" height="180" alt="image" src="https://github.com/user-attachments/assets/1454cb71-8b85-495f-a4c4-55bda1aec237" />
+<img width="396" height="226" alt="image" src="https://github.com/user-attachments/assets/f949dcba-0460-465b-b4b4-626f7254e61b" />
 
 
 ## Our Game Idea:
