@@ -13,7 +13,7 @@
 ![granny](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/granny1.png)
 
 ![Resent](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/resident.webp)
-
+</details>
 &nbsp;
 
 <details>
@@ -25,3 +25,4 @@
 * Oskar (over all support fills in when needed)
 
 
+</details>
