@@ -14,7 +14,7 @@
 
 ![Resent](https://github.com/pwspew/groupprojectbazinga0234/blob/main/images/resident.webp)
 </details>
-&nbsp;
+
 
 <details>
   <summary>meet the gang</summary>
